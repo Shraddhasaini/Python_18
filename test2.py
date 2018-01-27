@@ -1,7 +1,6 @@
-print "shraddha"
-a = 5
-b = 4
-aa = "9"
+print "shraddha1"
+b = 14
+aa = "19"
 print a, b, aa
 print a+b
 print aa + str(b)
