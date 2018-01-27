@@ -1,6 +1,6 @@
 print "shraddha1"
-a= 18
-b = 14
+a= 15
+b = 18
 aa = "19"
 print a, b, aa
 print a+b
