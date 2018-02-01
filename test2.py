@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 print "shraddha1"
 b = 141
 a= 151
+=======
+print "shraddha18"
+a= 15
+b = 18
+>>>>>>> first_branch
 aa = "19"
 print a, b, aa
 print a+b
