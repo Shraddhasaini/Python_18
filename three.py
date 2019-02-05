@@ -1,7 +1,8 @@
 #if an array has two 3 together
-def three(arr):
-    for i in range(0,len(arr)-1):
-        if arr[i] == 3 and arr[i+1] == 3:
+def three(nums):
+    for i in range(0,len(nums)-1):
+        if nums[i:i+2] == [3,3]:
             return True
+
     return False
-print(three([1,2,3,4]))
+print(three([1,2,3,3,4]))
